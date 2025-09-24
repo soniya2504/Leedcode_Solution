@@ -42,4 +42,5 @@ I use it to practice **Data Structures, Algorithms, and SQL queries** for interv
 |  |
 | ------- |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/soniya2504/Leedcode_Solution/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/soniya2504/Leedcode_Solution/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
