@@ -43,6 +43,7 @@ I use it to practice **Data Structures, Algorithms, and SQL queries** for interv
 | ------- |
 | [0197-rising-temperature](https://github.com/soniya2504/Leedcode_Solution/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/soniya2504/Leedcode_Solution/tree/master/0577-employee-bonus) |
+| [1415-students-and-examinations](https://github.com/soniya2504/Leedcode_Solution/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/soniya2504/Leedcode_Solution/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/soniya2504/Leedcode_Solution/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/soniya2504/Leedcode_Solution/tree/master/1801-average-time-of-process-per-machine) |
