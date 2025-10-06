@@ -46,6 +46,7 @@ I use it to practice **Data Structures, Algorithms, and SQL queries** for interv
 | [0577-employee-bonus](https://github.com/soniya2504/Leedcode_Solution/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/soniya2504/Leedcode_Solution/tree/master/0620-not-boring-movies) |
 | [1161-project-employees-i](https://github.com/soniya2504/Leedcode_Solution/tree/master/1161-project-employees-i) |
+| [1317-monthly-transactions-i](https://github.com/soniya2504/Leedcode_Solution/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/soniya2504/Leedcode_Solution/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/soniya2504/Leedcode_Solution/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/soniya2504/Leedcode_Solution/tree/master/1415-students-and-examinations) |
