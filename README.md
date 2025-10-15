@@ -58,6 +58,7 @@ I use it to practice **Data Structures, Algorithms, and SQL queries** for interv
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/soniya2504/Leedcode_Solution/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/soniya2504/Leedcode_Solution/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/soniya2504/Leedcode_Solution/tree/master/1801-average-time-of-process-per-machine) |
+| [1877-find-followers-count](https://github.com/soniya2504/Leedcode_Solution/tree/master/1877-find-followers-count) |
 | [2087-confirmation-rate](https://github.com/soniya2504/Leedcode_Solution/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/soniya2504/Leedcode_Solution/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
