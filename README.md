@@ -34,7 +34,7 @@ I use it to practice **Data Structures, Algorithms, and SQL queries** for interv
 
 ---
 
-⭐ If you’re also practicing on LeetCode, feel free to connect and share solutions!
+ If you’re also practicing on LeetCode, feel free to connect and share solutions!
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
