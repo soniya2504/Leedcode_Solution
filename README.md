@@ -30,7 +30,8 @@ I use it to practice **Data Structures, Algorithms, and SQL queries** for interv
 
 ##  Tech Stack
 - **Python 3**   
-- **SQL** 
+- **SQL**
+  
 
 ---
 
