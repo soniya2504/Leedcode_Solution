@@ -10,7 +10,7 @@ I use it to practice **Data Structures, Algorithms, and SQL queries** for interv
 - **SQL/** → Database-related problems solved in SQL.  
 - File names follow the problem title or ID from LeetCode.  
 
----
+--- 
 
 ##  Goals
 - Improve problem-solving with **Python**.  
