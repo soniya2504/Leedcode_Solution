@@ -44,6 +44,7 @@ I use it to practice **Data Structures, Algorithms, and SQL queries** for interv
 | ------- |
 | [0180-consecutive-numbers](https://github.com/soniya2504/Leedcode_Solution/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/soniya2504/Leedcode_Solution/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/soniya2504/Leedcode_Solution/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/soniya2504/Leedcode_Solution/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/soniya2504/Leedcode_Solution/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/soniya2504/Leedcode_Solution/tree/master/0577-employee-bonus) |
