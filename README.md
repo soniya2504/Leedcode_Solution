@@ -82,4 +82,12 @@ I use it to practice **Data Structures, Algorithms, and SQL queries** for interv
 | [2087-confirmation-rate](https://github.com/soniya2504/Leedcode_Solution/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/soniya2504/Leedcode_Solution/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/soniya2504/Leedcode_Solution/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/soniya2504/Leedcode_Solution/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/soniya2504/Leedcode_Solution/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
