@@ -92,4 +92,12 @@ I use it to practice **Data Structures, Algorithms, and SQL queries** for interv
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/soniya2504/Leedcode_Solution/tree/master/0155-min-stack) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/soniya2504/Leedcode_Solution/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/soniya2504/Leedcode_Solution/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
