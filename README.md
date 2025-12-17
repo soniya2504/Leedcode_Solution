@@ -75,6 +75,7 @@ I use it to practice **Data Structures, Algorithms, and SQL queries** for interv
 | [1527-patients-with-a-condition](https://github.com/soniya2504/Leedcode_Solution/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/soniya2504/Leedcode_Solution/tree/master/1667-fix-names-in-a-table) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/soniya2504/Leedcode_Solution/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1757-recyclable-and-low-fat-products](https://github.com/soniya2504/Leedcode_Solution/tree/master/1757-recyclable-and-low-fat-products) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/soniya2504/Leedcode_Solution/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/soniya2504/Leedcode_Solution/tree/master/1801-average-time-of-process-per-machine) |
 | [1877-find-followers-count](https://github.com/soniya2504/Leedcode_Solution/tree/master/1877-find-followers-count) |
